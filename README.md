@@ -12,5 +12,5 @@
 
 # Running the application 
 
-- In `src` folder there is an `ApplicationRunner` class which contains the main class where we can lunch the application
+- In `src` folder there is an `ApplicationRunner` class which contains the main class where we can launch the application
 
