@@ -205,10 +205,6 @@ public class GameFrame extends JFrame implements ActionListener {
         }
     }
 
-    public static void main(String[] args){
-        GameFrame gameFrame = new GameFrame();
-        gameFrame.setVisible(true);
-    }
 }
 
 
